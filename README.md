@@ -6,4 +6,4 @@ A collection of data analysis projects using real-world datasets. Focused on dat
 - Dataset: Kaggle Superstore (9994 rows)
 - Tools: Python, Pandas, Matplotlib
 - Findings: Technology is the top selling category
-- [View Notebook](./superstore_analysis.ipynb)
+- [View Notebook](./Superstore_Sales_Analysis.ipynb)
