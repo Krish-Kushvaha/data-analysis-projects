@@ -12,3 +12,4 @@ A collection of data analysis projects using real-world datasets. Focused on dat
 - Profit vs Sales comparison  
 - Discount impact on profit  
 - Identification of loss-making products  
+- [View next new added Notebook](./advanced_business_analysis.ipynb)
