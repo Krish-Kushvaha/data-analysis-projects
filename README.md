@@ -13,3 +13,10 @@ A collection of data analysis projects using real-world datasets. Focused on dat
 - Discount impact on profit  
 - Identification of loss-making products  
 - [View next new added Notebook](./advanced_business_analysis.ipynb)
+#### Screenshots:
+
+![Sales Trend](images/sales_trend.png)
+
+![Profit Analysis](images/profit_analysis.png)
+
+![Discount Impact](images/discount_impact.png)
